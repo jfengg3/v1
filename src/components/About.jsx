@@ -40,7 +40,7 @@ const About = () => {
                         <motion.div initial="hidden" animate="visible" variants={containerVariants}
                             className="flex flex-col items-center lg:items-start lg:mt-10 mt-5">
                             <motion.p className="text-stone-400 text-lg leading-relaxed tracking-tighter">
-                            Fast-forward to today, I graduated from SIT/UofG with a bachelor’s 
+                            Fast-forward today, I graduated from SIT/UofG with a bachelor’s 
                             degree in computing science, and had the privilege to of doing web 
                             development for an <a href="#" className="tooltip text-lg font-semibold text-stone-300 hover:text-indigo-300">SME<span class="tooltiptext">Ceased</span></a>, 
                             developing and testing tools for a <a href="https://www.dbs.com/" rel="noopener noreferrer" target="_blank" className="text-lg font-semibold text-stone-300 hover:text-indigo-300">huge financial corporation</a>.

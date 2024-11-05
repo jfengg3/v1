@@ -29,7 +29,7 @@ export const EXPERIENCES = [
     role: "Multimedia Developer Intern",
     company: "FULIFE Pte. Ltd.",
     description: `Developed and maintained code for in-house website using HTML, CSS, JavaScript and Bootstrap. Designed a low and high-fidelity UI/UX prototyping 
-    for the company's flagship mobile cashless payment system, eco-Fulife`,
+    for the company's flagship mobile cashless payment system, eco-Fulife.`,
     technologies: ["HTML & CSS", "JavaScript", "Bootstrap"],
     link: "https://www.instagram.com/fulifesg/",
   },
